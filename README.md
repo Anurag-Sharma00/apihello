@@ -112,4 +112,4 @@ python manage.py runserver
 
 🛡️ **Happy Coding!** 🚀
 
-Developed by Shivam ❣️
+Developed by Anurag 
